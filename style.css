@@ -1,0 +1,18 @@
+.alignleft {
+    float: left;
+}
+
+.alignright {
+    float: right;
+}
+
+.alignjustify {
+    text-align: justify;
+}
+
+hr {
+    background-color: black;
+    border: none;
+    height: 2px;
+    margin: 0px;
+}
